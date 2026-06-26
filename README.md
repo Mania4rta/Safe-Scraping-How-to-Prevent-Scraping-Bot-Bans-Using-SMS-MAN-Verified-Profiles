@@ -1,4 +1,4 @@
-# sms-activate review: Responsible Data Collection in 2026 — SMS Verification, Testing, and Developer Workflows
+# [sms-activate review: Responsible Data Collection in 2026 — SMS Verification, Testing, and Developer Workflows](https://sms-man.com/?ref=nima)
 
 ## Introduction
 
